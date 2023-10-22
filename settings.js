@@ -7,14 +7,7 @@ global.help = {
 Menu(pushname){
   return `Halo ${pushname}
 
-Saya adalah ZeniBot, Silahkan balas dengan menu dibawah _(contoh: ${prepix}sticker)_
-
-- Owner 
-- sticker
-- toimage
-- ai
-- tiktok
-- confess
+Saya adalah Zenibot, Ketik .list untuk menampilkan semua menu .
 `
 }
 }
